@@ -1,0 +1,361 @@
+SYMPTOMS:-
+skin irritations 
+DURATION:-
+1 
+SEVERITY:-
+major 
+AGE:-
+18 
+CITY:-
+phagwara,Punjab 
+PREDICTED_DISEASE_NAME:-
+
+
+1. Atopic dermatitis (eczema)
+2. Psoriasis
+3. Contact dermatitis 
+REMEDIES:-
+.
+
+Some immediate remedies for the patient to perform at home for contact dermatitis may include:
+
+1. Cold compress: Applying a cold compress or ice pack to the affected area can help reduce inflammation and relieve itching.
+
+2. Moisturize: Keep the affected area moisturized with a gentle, fragrance-free moisturizer. This can help soothe dry, itchy skin and prevent further irritation.
+
+3. Oatmeal bath: Taking a bath with colloidal oatmeal can help relieve itching and soothe the skin. You can also make a paste with oatmeal and water and apply it directly to the affected area.
+
+4. Apple cider vinegar: Dilute apple cider vinegar with water and apply it to the affected area with a cotton ball. This can help reduce inflammation and relieve itching.
+
+5. Aloe vera: Applying fresh aloe vera gel to the affected area can help soothe and heal the skin.
+
+6. Over-the-counter hydrocortisone cream: This can help reduce inflammation and relieve itching. Make sure to follow the instructions on the label and do not use it on broken or infected skin.
+
+7. Avoid irritants: Identify and avoid any triggers or irritants that may have caused the contact dermatitis. This may include certain soaps, detergents 
+HOSPITAL_NAME:-
+
+
+1. Civil Hospital Phagwara - This is a government-run hospital that offers treatment for various skin conditions, including atopic dermatitis. They have a team of experienced dermatologists who can provide proper diagnosis and treatment for the patient's condition.
+
+2. Fortis Hospital Ludhiana - This is a multi-specialty hospital located in the nearby city of Ludhiana. They have a dedicated department for dermatology and offer advanced treatment options for psoriasis, including phototherapy and biologic medications.
+
+3. Apollo Spectra Hospitals - This is a private hospital located in Jalandhar, which is about an hour's drive from Phagwara. They have a specialized dermatology department that offers treatment for various skin conditions, including contact dermatitis. The hospital has modern facilities and a team of skilled dermatologists to provide effective treatment for the patient.  
+COST:-
+
+
+The approximate cost of treatment for these conditions at these hospitals in Indian Rupees can vary depending on the severity of the condition and the treatment required. However, an estimation of the cost can range from:
+
+1. Atopic dermatitis (eczema) - Approximately Rs. 5,000 to Rs. 10,000 per session for consultations and medications. The duration of treatment can vary from a few weeks to months, depending on the severity of the condition.
+
+2. Psoriasis - Approximately Rs. 10,000 to Rs. 20,000 per session for consultations and medications. Additional costs may be incurred for advanced treatments such as phototherapy or biologic medications.
+
+3. Contact dermatitis - Approximately Rs. 5,000 to Rs. 10,000 per session for consultations and medications. The duration of treatment can vary from a few weeks to months, depending on the severity of the condition.
+
+Please note that these are just rough estimations and the actual cost may vary depending on the individual case and the hospital's charges. It is always best to consult with a dermatologist for a proper diagnosis and treatment plan. 
+RECOVERY:-
+
+
+1. Atopic dermatitis (eczema)
+
+The recovery time for atopic dermatitis (eczema) varies depending on the severity of the condition and how well it responds to treatment. In most cases, it can take several weeks to several months for the symptoms to improve and the skin to fully heal. However, it is a chronic condition and may require ongoing management and treatment to prevent flare-ups.
+
+2. Psoriasis
+
+Psoriasis is a chronic condition with no cure. The recovery time for psoriasis can vary greatly depending on the type and severity of the condition. Mild cases may see improvement in a matter of weeks with proper treatment, while severe cases may take months or even years to see improvement. In some cases, psoriasis may go into remission for periods of time, but it can also flare up again at any time.
+
+3. Contact dermatitis
+
+The recovery time for contact dermatitis also depends on the severity of the reaction and how well it responds to treatment. In mild cases, symptoms may improve within a few days. However, in more severe cases, it may take weeks for the skin to fully heal. Avoiding the trigger and using topical treatments can help speed up the recovery process.  
+SYMPTOMS:-
+stomach pain,fever 39degree celcius to 40 degree celcius 
+DURATION:-
+30 days 
+SEVERITY:-
+stomach pain  extreme 
+AGE:-
+12 
+CITY:-
+kolkata 
+PREDICTED_DISEASE_NAME:-
+
+
+1. Appendicitis
+2. Gastroenteritis
+3. Inflammatory bowel disease (IBD) such as Crohn's disease or ulcerative colitis 
+REMEDIES:-
+
+
+Some immediate remedies for the patient to perform at home may include:
+
+1. Resting and avoiding strenuous activities to allow the body to heal.
+2. Drinking plenty of fluids to prevent dehydration.
+3. Eating a bland and easily digestible diet, such as BRAT (bananas, rice, applesauce, toast) to ease stomach discomfort.
+4. Taking over-the-counter pain relievers, such as ibuprofen or acetaminophen, to help with abdominal pain.
+5. Applying a heating pad or hot water bottle to the abdomen to help relieve cramping.
+6. Avoiding fatty, spicy, or greasy foods that can irritate the digestive system.
+7. Taking probiotics to help restore the balance of good bacteria in the gut.
+8. Practicing good hygiene, such as washing hands frequently, to prevent the spread of infection.
+9. Getting plenty of rest and sleep to allow the body to heal.
+10. Seeking medical attention if symptoms persist or worsen.  
+HOSPITAL_NAME:-
+
+
+1. Apollo Gleneagles Hospital, Kolkata
+2. Fortis Hospital, Anandapur, Kolkata
+3. AMRI Hospitals, Salt Lake, Kolkata 
+COST:-
+
+
+1. Appendicitis: The approximate cost of treatment for appendicitis in Apollo Gleneagles Hospital, Kolkata would be around 50,000-75,000 Indian Rupees.
+2. Gastroenteritis: The approximate cost of treatment for gastroenteritis in Fortis Hospital, Anandapur, Kolkata would be around 20,000-30,000 Indian Rupees.
+3. Inflammatory bowel disease (IBD): The approximate cost of treatment for IBD such as Crohn's disease or ulcerative colitis in AMRI Hospitals, Salt Lake, Kolkata would be around 75,000-1,00,000 Indian Rupees. 
+RECOVERY:-
+
+
+1. Appendicitis: The recovery time for appendicitis surgery can vary depending on the severity of the inflammation, the type of surgery performed, and the individual's overall health. However, most patients can expect to spend 1-3 days in the hospital and require 2-4 weeks of recovery time at home.
+
+2. Gastroenteritis: The recovery time for gastroenteritis can also vary depending on the severity of the infection and individual's overall health. In most cases, symptoms will start to improve within a few days, but it may take up to a week for a full recovery.
+
+3. Inflammatory bowel disease (IBD): The recovery time for IBD can vary greatly depending on the type of treatment and the severity of the disease. In some cases, symptoms may improve with medication within a few weeks, but in more severe cases, surgery may be required and recovery time can take several weeks or even months. Additionally, there is no cure for IBD, so patients may experience flare-ups and require ongoing treatment and management. 
+SYMPTOMS:-
+stomach pain,fever 39degree celcius to 40 degree celcius 
+DURATION:-
+30 days 
+SEVERITY:-
+stomach pain  extreme 
+AGE:-
+12 
+CITY:-
+kolkata 
+PREDICTED_DISEASE_NAME:-
+
+1. Appendicitis
+2. Gastroenteritis
+3. Inflammatory bowel disease (Crohn's disease or ulcerative colitis)
+4. Stomach ulcers
+5. Intestinal obstruction
+6. Intussusception
+7. Diverticulitis
+8. Pancreatitis
+9. Viral or bacterial gastroenteritis
+10. Food poisoning. 
+REMEDIES:-
+
+
+1. For appendicitis, the immediate remedy is to seek medical attention and possibly undergo surgery to remove the inflamed appendix.
+2. For gastroenteritis, it is important to stay hydrated by drinking plenty of fluids and avoiding solid foods until symptoms improve. Over-the-counter medications such as anti-diarrheal and anti-nausea medicines can also provide relief.
+3. For inflammatory bowel disease, medications and dietary changes prescribed by a doctor can help manage symptoms.
+4. For stomach ulcers, avoiding spicy and acidic foods, reducing stress, and taking over-the-counter antacids can provide relief. In severe cases, prescription medications or surgery may be necessary.
+5. For intestinal obstruction, immediate medical attention is necessary. The patient should not eat or drink anything until evaluated by a doctor.
+6. Intussusception requires immediate medical attention and may require surgery to correct.
+7. For diverticulitis, a clear liquid diet and antibiotics may be prescribed by a doctor. In severe cases, surgery may be necessary.
+8. Pancreatitis may require hospitalization and intravenous fluids, pain medication, and a bland diet. In severe cases, surgery may be necessary.
+9. For viral or bacterial gastroenteritis, staying hydrated and getting plenty of rest 
+HOSPITAL_NAME:-
+
+
+1. Apollo Gleneagles Hospital Kolkata
+2. Fortis Hospital Kolkata
+3. AMRI Hospital Kolkata 
+COST:-
+
+
+1. Appendicitis: The approximate cost of treatment for appendicitis at Apollo Gleneagles Hospital Kolkata would range from Rs. 50,000 to Rs. 1,00,000.
+2. Gastroenteritis: The approximate cost of treatment for gastroenteritis at Fortis Hospital Kolkata would range from Rs. 20,000 to Rs. 50,000.
+3. Inflammatory bowel disease (Crohn's disease or ulcerative colitis): The approximate cost of treatment for inflammatory bowel disease at AMRI Hospital Kolkata would range from Rs. 1,00,000 to Rs. 2,00,000.
+4. Stomach ulcers: The approximate cost of treatment for stomach ulcers at Apollo Gleneagles Hospital Kolkata would range from Rs. 30,000 to Rs. 70,000.
+5. Intestinal obstruction: The approximate cost of treatment for intestinal obstruction at Fortis Hospital Kolkata would range from Rs. 50,000 to Rs. 1,00,000.
+6. Intussusception: The approximate cost of treatment for intussusception at AMRI Hospital Kolkata would range from Rs. 50,000 to Rs. 1,00,000.
+7. 
+RECOVERY:-
+ 
+
+1. Appendicitis: The recovery time for appendicitis can vary depending on the severity of the condition and the type of surgery performed. In general, recovery can take anywhere from 1-3 weeks, with the first few days being spent in the hospital and the remaining time at home. Full recovery may take up to 4-6 weeks.
+
+2. Gastroenteritis: The recovery time for gastroenteritis can also vary, but most people will start to feel better within a few days. It may take up to a week for symptoms to completely resolve.
+
+3. Inflammatory bowel disease (Crohn's disease or ulcerative colitis): The recovery time for these conditions can vary greatly depending on the individual and the severity of the disease. In general, it may take several weeks to months to achieve remission and manage symptoms.
+
+4. Stomach ulcers: With proper treatment and lifestyle changes, stomach ulcers can heal within 2-3 weeks. However, it may take longer for symptoms to completely resolve.
+
+5. Intestinal obstruction: The recovery time for an intestinal obstruction will depend on the underlying cause and the severity of the obstruction. In some cases, surgery may be required for treatment, which can extend the recovery time to 
+SYMPTOMS:-
+skin irritations 
+DURATION:-
+2 
+SEVERITY:-
+mild 
+AGE:-
+20 
+CITY:-
+jalandar 
+PREDICTED_DISEASE_NAME:-
+
+
+1. Atopic Dermatitis
+2. Contact Dermatitis
+3. Psoriasis 
+REMEDIES:-
+
+
+1. Atopic Dermatitis: 
+- Apply a moisturizing cream or ointment regularly to keep skin hydrated
+- Avoid scratching the affected area to prevent further irritation
+- Take lukewarm baths and avoid hot water, as it can dry out the skin
+- Use gentle, fragrance-free soaps and detergents
+- Keep nails short and wear gloves at night to prevent scratching during sleep
+- Apply a cold compress to reduce itching and inflammation
+- Use over-the-counter hydrocortisone cream for severe itching
+- Avoid triggers such as stress, certain foods, and allergens.
+
+2. Contact Dermatitis: 
+- Wash the affected area with mild soap and lukewarm water
+- Apply a cool compress to reduce itching and inflammation
+- Avoid scratching the affected area
+- Use over-the-counter hydrocortisone cream to reduce inflammation and itching
+- Take an antihistamine to reduce allergic reactions
+- Use calamine lotion to soothe the skin
+- Avoid contact with the irritant or allergen that caused the reaction.
+
+3. Psoriasis: 
+- Keep the skin moisturized by applying a thick moisturizing cream or ointment
+- Take lukewarm baths and avoid hot water
+- Use gentle, 
+HOSPITAL_NAME:-
+
+
+1. Christian Medical College and Hospital, Ludhiana
+2. Dayanand Medical College and Hospital, Ludhiana
+3. Indus Super Speciality Hospital, Mohali 
+COST:-
+
+
+1. Atopic Dermatitis:
+- Christian Medical College and Hospital, Ludhiana: The approximate cost for treatment of Atopic Dermatitis at this hospital is around Rs. 15,000 - Rs. 25,000 per session. The total cost may vary depending on the severity of the condition and the number of sessions required.
+- Dayanand Medical College and Hospital, Ludhiana: The approximate cost for treatment of Atopic Dermatitis at this hospital ranges from Rs. 10,000 - Rs. 20,000 per session, with a total cost of around Rs. 50,000 - Rs. 1,00,000 for complete treatment.
+- Indus Super Speciality Hospital, Mohali: The approximate cost for treatment of Atopic Dermatitis at this hospital is around Rs. 20,000 - Rs. 30,000 per session. The total cost may vary depending on the severity of the condition and the number of sessions required.
+
+2. Contact Dermatitis:
+- Christian Medical College and Hospital, Ludhiana: The approximate cost for treatment of Contact Dermatitis at this hospital is around Rs. 10,000 - Rs. 20,000 per session. The total cost may vary depending on the severity of 
+RECOVERY:-
+
+
+1. Atopic Dermatitis: The recovery time for atopic dermatitis can vary greatly depending on the severity of the condition and the individual's response to treatment. In mild cases, symptoms can improve within a few weeks with proper treatment. However, in more severe cases, it can take several months to see improvement. In some cases, atopic dermatitis can be a chronic condition that requires ongoing management and may never fully resolve.
+
+2. Contact Dermatitis: The recovery time for contact dermatitis can also vary depending on the severity of the reaction and the individual's response to treatment. In mild cases, symptoms may improve within a few days to a week. In more severe cases, it may take several weeks for symptoms to fully resolve. However, in some cases, contact dermatitis can also be a chronic condition that requires ongoing management.
+
+3. Psoriasis: The recovery time for psoriasis can also vary greatly depending on the type and severity of the condition. In mild cases, symptoms may improve within a few weeks with proper treatment. In more severe cases, it may take several months for symptoms to fully resolve. In some cases, psoriasis can be a chronic condition that requires ongoing management and may never fully go away.  
+SYMPTOMS:-
+fever,diareeha 
+DURATION:-
+1 day 
+SEVERITY:-
+major 
+AGE:-
+18 
+CITY:-
+Jalandhar 
+PREDICTED_DISEASE_NAME:-
+
+
+1. Gastroenteritis
+2. Salmonella infection
+3. Campylobacter infection 
+REMEDIES:-
+
+
+1. Gastroenteritis:
+
+a. Stay hydrated: Drinking plenty of fluids is important to replace the fluids and electrolytes lost due to diarrhea and vomiting.
+
+b. Rest: Resting will help the body to recover and regain strength.
+
+c. BRAT diet: Eat bland and easily digestible foods such as bananas, rice, applesauce, and toast to help ease symptoms.
+
+d. Avoid dairy, caffeine, and fatty/spicy foods: These can irritate the stomach and worsen symptoms.
+
+e. Take over-the-counter medications: Antidiarrheal medications such as loperamide can help control diarrhea. Pain relievers like ibuprofen can help with stomach cramps.
+
+f. Drink ginger tea: Ginger has natural anti-inflammatory properties and can help ease nausea and vomiting.
+
+2. Salmonella infection:
+
+a. Stay hydrated: Similar to gastroenteritis, it is important to drink plenty of fluids to replace what is lost due to diarrhea and vomiting.
+
+b. Rest: The body needs time to recover, so it is important to get enough rest.
+
+c. BRAT diet: Eating bland and easily digestible foods can help ease symptoms.
+
+d. Avoid dairy, caffeine, and fatty/spicy foods: These can irritate the stomach and worsen 
+HOSPITAL_NAME:-
+
+
+1. Amandeep Hospital, Jalandhar
+2. SGL Charitable Hospital, Jalandhar
+3. Patel Hospital, Jalandhar 
+COST:-
+
+
+1. Amandeep Hospital, Jalandhar:
+The approximate cost of treatment for gastroenteritis at Amandeep Hospital, Jalandhar can range from Rs. 5,000 to Rs. 15,000, depending on the severity and duration of the illness. This includes doctor's consultation fees, diagnostic tests, and medication.
+
+2. SGL Charitable Hospital, Jalandhar:
+At SGL Charitable Hospital, Jalandhar, the approximate cost of treatment for salmonella infection can range from Rs. 10,000 to Rs. 20,000. This includes doctor's consultation fees, diagnostic tests, and medication.
+
+3. Patel Hospital, Jalandhar:
+The approximate cost of treatment for campylobacter infection at Patel Hospital, Jalandhar can range from Rs. 8,000 to Rs. 18,000. This includes doctor's consultation fees, diagnostic tests, and medication. 
+RECOVERY:-
+
+
+1. Gastroenteritis: The recovery time for gastroenteritis can vary depending on the severity of the infection and the individual's overall health. In most cases, symptoms will improve within 2-3 days and the person can fully recover within a week. In severe cases, it may take up to two weeks for a full recovery.
+
+2. Salmonella infection: The recovery time for a Salmonella infection can also vary depending on the severity of the infection and the individual's overall health. In most cases, symptoms will improve within 4-7 days and the person can fully recover within a few weeks. However, in some cases, the infection can lead to serious complications and may require hospitalization and a longer recovery time.
+
+3. Campylobacter infection: The recovery time for a Campylobacter infection can vary, but in most cases, symptoms will improve within 2-5 days and the person can fully recover within a week. However, in some cases, the infection can lead to serious complications such as Guillain-Barré syndrome, which can require a longer recovery time. It is important for individuals with a Campylobacter infection to follow their doctor's instructions and complete any prescribed treatment to aid in the recovery process. 
+SYMPTOMS:-
+bohot jayada potty hocche 
+DURATION:-
+30 days 
+SEVERITY:-
+extreme 
+AGE:-
+20 
+CITY:-
+kolkata 
+PREDICTED_DISEASE_NAME:-
+
+
+1) Infectious diarrhea caused by a bacterial or viral infection
+2) Inflammatory bowel disease, such as Crohn's disease or ulcerative colitis
+3) Intestinal parasite infection, such as giardiasis or amebiasis 
+REMEDIES:-
+
+
+1) Stay hydrated by drinking plenty of water and electrolyte-rich fluids like sports drinks or coconut water.
+2) Eat bland, easy-to-digest foods like rice, toast, bananas, and boiled potatoes.
+3) Take over-the-counter medications like loperamide or bismuth subsalicylate to help control diarrhea.
+4) Avoid dairy products, caffeine, alcohol, and spicy or fatty foods.
+5) Rest and allow your body to recover.
+6) If symptoms persist or worsen, consult a doctor for further treatment.  
+HOSPITAL_NAME:-
+
+
+1) Apollo Gleneagles Hospitals, Kolkata
+2) Fortis Hospital, Kolkata
+3) Peerless Hospital and B.K. Roy Research Center, Kolkata 
+COST:-
+
+
+1) The approximate cost for treatment of infectious diarrhea caused by a bacterial or viral infection at Apollo Gleneagles Hospitals in Kolkata can range from Rs. 10,000 to Rs. 50,000, depending on the severity of the infection and the type of treatment required.
+
+2) The approximate cost for treatment of inflammatory bowel disease at Fortis Hospital in Kolkata can range from Rs. 50,000 to Rs. 2 lakhs, depending on the type and severity of the disease and the treatment plan recommended by the doctor.
+
+3) The approximate cost for treatment of intestinal parasite infections at Peerless Hospital and B.K. Roy Research Center in Kolkata can range from Rs. 5,000 to Rs. 20,000, depending on the type of infection and the treatment required. This cost may also vary depending on the duration of treatment and any additional procedures or tests that may be required. 
+RECOVERY:-
+
+
+1) The recovery time for infectious diarrhea can vary depending on the severity of the infection and the overall health of the patient. In most cases, symptoms will improve within a few days to a week. However, it may take a few weeks for the digestive system to fully recover and for the patient to regain their strength and energy.
+
+2) The recovery time for inflammatory bowel disease can also vary greatly, depending on the severity and type of disease. In mild cases, symptoms may improve within a week or two with proper treatment. In more severe cases, it may take several weeks or months for symptoms to improve. The patient may also experience periods of remission and flare-ups, which can affect the overall recovery time.
+
+3) The recovery time for an intestinal parasite infection can also vary depending on the specific parasite and the severity of the infection. In most cases, symptoms will improve within a few weeks with proper treatment. However, some parasitic infections can be more difficult to treat and may take longer to fully recover. It is important for the patient to closely follow their treatment plan and continue to monitor their symptoms until they are fully recovered. 
